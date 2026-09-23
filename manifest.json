@@ -1,9 +1,17 @@
 {
-  "name": "Relationship Journal",
-  "short_name": "Journal",
+  "name": "Our Journey",
+  "short_name": "Our Journey",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#f5f6f8",
   "theme_color": "#172033",
-  "description": "A private, structured relationship journal."
+  "description": "A private, structured relationship journal.",
+  "icons": [
+    {
+      "src": "appicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
